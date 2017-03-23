@@ -2,9 +2,12 @@
 Jernej Krum
 Marko Žugelj
 
+![alt text](https://github.com/KrumJ12/SoccerHeads/blob/master/Slike/menu.PNG "Menu")
+
 Povezava na igrico:
 http://scratch.mit.edu/projects/32428776/
 
+![alt text](https://github.com/KrumJ12/SoccerHeads/blob/master/Slike/igra.PNG "Igra")
 
 Opis igrice: 
 Igra Soccer Heads je namenjena dvema igralcema, ki se pomerita med seboj.
